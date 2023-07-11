@@ -1,3 +1,3 @@
 # thanos_snap
 
-Tells you if you been spared by the Thano's snap or not.
+Tells you whether the Thano's snap has spared you or not.
